@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ServerJoin.unity
+    guid: 6c9f9a9fa10ad4f0599811db743df5aa
+  - enabled: 1
+    path: Assets/Scenes/OyunSahnesi.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GardiyanKazandi.unity
+    guid: a59fba183785e4435a142515fba07898
+  - enabled: 1
+    path: Assets/Scenes/BasariylaKacildi.unity
+    guid: eae9cb35eb96b4616903352501849b88
+  m_configObjects: {}
